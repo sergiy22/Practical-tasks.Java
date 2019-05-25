@@ -10,7 +10,7 @@ import ua.edu.k2.oop.repository.PersonRepository;
 
 /**
  *
- * @author 1710506
+ * @author 1710508
  */
 public class PersonApp {
     public static void main(String[] args) {
