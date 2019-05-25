@@ -10,7 +10,7 @@ import ua.edu.k2.oop.error.PersonException;
 
 /**
  *
- * @author 1710506
+ * @author 1710508
  */
 public interface PersonRepository extends Repository<Person>{
 
