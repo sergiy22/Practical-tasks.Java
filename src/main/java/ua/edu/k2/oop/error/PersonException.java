@@ -7,7 +7,7 @@ package ua.edu.k2.oop.error;
 
 /**
  *
- * @author 1710506
+ * @author 1710508
  */
 public class PersonException extends Exception {
 
