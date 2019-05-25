@@ -7,7 +7,7 @@ package ua.edu.k2.oop.repository;
 
 /**
  *
- * @author 1710506
+ * @author 1710508
  */
 public interface Repository<T> {
     void write(T o) throws Exception;
